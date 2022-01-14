@@ -1,14 +1,15 @@
 # yagom-musicplayer
-___
+
  프로젝트 기간 : 2022.1.12 ~ 2021.1.18    
  프로젝트 팀원 : 서원지 
-___
+---   
+
  yagom-musicplayer 만들면서 학습한  내용     
  ### [UIButton, UIslider, UILabel](https://www.notion.so/royblog/UIButton-UISlider-UILabel-6fcb351f33e6411b97403f890d48fdca)  
  
  
  ## 프로젝트 목표 
- ___ 
+
  - 버튼을 이용해서 음악이 실행하게 시킴
  - sider을 이용해서 노래를 시간을 변경
  - 노래 재생이 종료 되면 다시  play 버튼으로 변경 
