@@ -162,10 +162,11 @@ class func scheduledTimer(timeInterval: TimeInterval, invocation: NSInvocation, 
 func init(timeInterval: TimeInterval, target: Any, selector: Selector, userInfo: Any?, repeats: Bool)
 func init(fireAt: Date, interval: TimeInterval, target: Any, selector: Selector, userInfo: Any?, repeats: Bool)
   ```    
- ![화면 기록 2022-01-14 오후 10 14 16](https://user-images.githubusercontent.com/75601594/149521468-faf9c9b4-c06b-453c-9d47-9892fe58f680.gif)
+ ![화면 기록 2022-01-14 오후 10 14 16](https://user-images.githubusercontent.com/75601594/149521468-faf9c9b4-c06b-453c-9d47-9892fe58f680.gif)   
  
  
- ## 오토레이아웃으로 소스코드 수정 맟 공부 
+ 
+ ## 오토레이아웃으로 소스코드 수정 맟 공부   
  ###  [오토 레이아웃](https://royblog.notion.site/c933e6717bde4c19bc0c48f34e28a959)
  
  구현 코드
