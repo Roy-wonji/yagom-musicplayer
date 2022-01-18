@@ -3,12 +3,10 @@
  프로젝트 기간 : 2022.1.12 ~ 2021.1.18    
  
   프로젝트 팀원 : 서원지    
-  
 ---   
 
  yagom-musicplayer 만들면서 학습한  내용     
  ### [UIButton, UIslider, UILabel](https://www.notion.so/royblog/UIButton-UISlider-UILabel-6fcb351f33e6411b97403f890d48fdca)  
-<<<<<<< HEAD
  
  
  ## 프로젝트 목표 
@@ -17,7 +15,6 @@
  - sider을 이용해서 노래를 시간을 변경
  - 노래 재생이 종료 되면 다시  play 버튼으로 변경 
  
-=======
  
  
  ## 프로젝트 목표 
@@ -26,7 +23,6 @@
  - sider을 이용해서 노래를 시간을 변경
  - 노래 재생이 종료 되면 다시  play 버튼으로 변경 
  
->>>>>>> 1efc234 (오토레이아웃으로 코드 변경 해서 만듬)
  ## AVFoundation
 - AVFoundation은 다양한 Apple 플랫폼에서 사운드 및 영상 미디어의 처리, 제어, 가져오기 및 내보내기 등 광범위한 기능을 제공하는 프레임워크입니다..
 
@@ -69,7 +65,6 @@ func init(contentOf: URL)
 // 메모리에 올라와있는 데이터를 이용해 초기화
 func init(data: Data)
  ```
-<<<<<<< HEAD
 
 - AVAudioPlayer 초기화 메서드  
 
@@ -121,14 +116,6 @@ func init(fireAt: Date, interval: TimeInterval, target: Any, selector: Selector,
 
 
 
-
-
-
-
-
-=======
->>>>>>> 1efc234 (오토레이아웃으로 코드 변경 해서 만듬)
-
 - AVAudioPlayer 초기화 메서드  
 
 ```swift
@@ -176,3 +163,7 @@ func init(timeInterval: TimeInterval, target: Any, selector: Selector, userInfo:
 func init(fireAt: Date, interval: TimeInterval, target: Any, selector: Selector, userInfo: Any?, repeats: Bool)
   ```    
  ![화면 기록 2022-01-14 오후 10 14 16](https://user-images.githubusercontent.com/75601594/149521468-faf9c9b4-c06b-453c-9d47-9892fe58f680.gif)
+ 
+ 
+ ## 오토레이아웃으로 소스코드 수정 맟 공부 
+ ###  [오토 레이아웃](https://royblog.notion.site/c933e6717bde4c19bc0c48f34e28a959)
